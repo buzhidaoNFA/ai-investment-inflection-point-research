@@ -2,11 +2,12 @@
 
 报告由 AI 生成，请不要盲目相信。NFA！
 
-初始 prompt 基于 https://x.com/WallStreet0Name/status/2053091874332885036 并反复迭代。
+初始 prompt 基于 [https://x.com/WallStreet0Name/status/2053091874332885036](https://x.com/WallStreet0Name/status/2053091874332885036) 并反复迭代。
 
 ---
 
 <p id="daily-report-link"></p>
+<p>github repo: <a href="https://github.com/buzhidaoNFA/ai-investment-inflection-point-research">https://github.com/buzhidaoNFA/ai-investment-inflection-point-research</a></p>
 <script>
   (function() {
     const now = new Date();
@@ -19,3 +20,4 @@
       '📅 <a href="' + path + '">查看今日报告（' + y + '-' + m + '-' + d + '）</a>';
   })();
 </script>
+
