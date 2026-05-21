@@ -7,7 +7,7 @@
 ---
 
 <p id="daily-report-link"></p>
-<p>github repo: <a href="https://github.com/buzhidaoNFA/ai-investment-inflection-point-research">https://github.com/buzhidaoNFA/ai-investment-inflection-point-research</a></p>
+<p>🤖 github repo: <a href="https://github.com/buzhidaoNFA/ai-investment-inflection-point-research">https://github.com/buzhidaoNFA/ai-investment-inflection-point-research</a></p>
 <script>
   (function() {
     const now = new Date();
